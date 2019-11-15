@@ -12,8 +12,8 @@ Just create mongodb Database follow this all Steps
     https://robomongo.org/download
     
 4: create new database
- cmd  "use test"
- msg => switched to db test
+ cmd  "use test_db"
+ msg => switched to db test_db
 
 5: cmd "db.createCollection("users")"
   msg  => { "ok" : 1 }
